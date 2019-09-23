@@ -44,7 +44,6 @@ public class MessageGroup {
                     throw new IllegalStateException("Group Message"+message.getText()+" has gone to the wrong receiver");
             }
 
-
         }
     }
 }
